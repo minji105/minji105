@@ -12,13 +12,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminji105&count_bg=%23FF6E48&title_bg=%236F6F6F&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=100&color=faf7f7&text=Hi!👋%20My%20name%20is%20Minji%20Cho&reversal=false&fontColor=6b6b6b&fontAlign=50&fontSize=30&fontAlignY=54" alt="header">
+  <br></br>
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&height=100&color=faf7f7&text=Hi!👋%20My%20name%20is%20Minji%20Cho&reversal=false&fontColor=6b6b6b&fontAlign=50&fontSize=30&fontAlignY=54)
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=minji105&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=swift" alt="GitHub stats">
+  </a>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minji105&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minji105&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minji105&layout=compact" alt="Top Langs">
+  <br></br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minji105&repo=joheesu-port&theme=swift)](https://github.com/minji105/joheesu-port)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minji105&repo=cyworld&theme=swift)](https://github.com/minji105/cyworld)
+  **Representative Repositories 👇**
+
+  <a href="https://github.com/minji105/joheesu-port">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=minji105&repo=joheesu-port&theme=swift" alt="joheesu-port">
+  </a>
+  
+  <a href="https://github.com/minji105/cyworld">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=minji105&repo=cyworld&theme=swift" alt="cyworld">
+  </a>
+  
+</div>

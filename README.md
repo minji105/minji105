@@ -33,5 +33,9 @@ Here are some ideas to get you started:
   <a href="https://github.com/minji105/cyworld">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=minji105&repo=cyworld&theme=swift" alt="cyworld">
   </a>
+  <br></br>
+  <br></br>
+
+  *🌵 Thank you 🌵*
   
 </div>

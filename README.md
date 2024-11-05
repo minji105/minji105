@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minji105&layout=compact" alt="Top Langs">
   <br></br>
-
+<!--
   **Representative Repositories 👇**
 
   <a href="https://github.com/minji105/joheesu-port">
@@ -37,5 +37,5 @@ Here are some ideas to get you started:
   <br></br>
 
   *🌵 Thank you 🌵*
-  
+  --!>
 </div>

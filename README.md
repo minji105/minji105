@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minji105&layout=compact" alt="Top Langs">
+[![minji105's GitHub stats](https://github-readme-stats.vercel.app/api?username=minji105&count_private=true&show_icons=true&theme=flag-india)](https://github.com/minji105)  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minji105&layout=compact&theme=flag-india" alt="Top Langs">  
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=minji105&utm_content=farm">
 <img

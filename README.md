@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minji105&layout=compact" alt="Top Langs">
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=minji105&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/minji105"
+  width="600"
+  height="300"
+/>
+</a>

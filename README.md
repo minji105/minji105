@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 <img
   src="https://render.gitanimals.org/farms/minji105"
   width="450"
-  height="300"
+  height="225"
 />
 </a>
 <a href="https://www.gitanimals.org/">
       <img
         src="https://render.gitanimals.org/guilds/718880218684969028/draw"
         width="450"
-        height="300"
+        height="225"
         alt="gitanimals"
       />
     </a>

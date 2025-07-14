@@ -22,21 +22,25 @@
 
 
 ---
-[![minji105's GitHub stats](https://github-readme-stats.vercel.app/api?username=minji105&count_private=true&show_icons=true&theme=flag-india)](https://github.com/minji105)  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minji105&layout=compact&theme=flag-india" alt="Top Langs">  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=minji105&count_private=true&show_icons=true&theme=flag-india" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minji105&layout=compact&theme=flag-india" alt="Top Langs" width="49%" />
+</div>
 
-
+<div align="center">
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=minji105&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/minji105"
-  width="600"
+  width="49%"
   height="300"
 />
 </a>
 <a href="https://www.gitanimals.org/">
       <img
         src="https://render.gitanimals.org/guilds/718880218684969028/draw"
-        width="600"
+        width="49%"
         height="300"
         alt="gitanimals"
       />
     </a>
+</div>

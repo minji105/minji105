@@ -22,9 +22,9 @@
 
 
 ---
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minji105&count_private=true&show_icons=true&theme=flag-india" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minji105&layout=compact&theme=flag-india" alt="Top Langs" width="49%" />
+<div align="start">
+  <img src="https://github-readme-stats.vercel.app/api?username=minji105&count_private=true&show_icons=true&theme=flag-india" width="56%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minji105&layout=compact&theme=flag-india" alt="Top Langs" width="43%" />
 </div>
 
 

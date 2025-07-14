@@ -27,20 +27,20 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minji105&layout=compact&theme=flag-india" alt="Top Langs" width="49%" />
 </div>
 
-<div align="center">
+
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=minji105&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/minji105"
-  width="49%"
+  width="500"
   height="300"
 />
 </a>
 <a href="https://www.gitanimals.org/">
       <img
         src="https://render.gitanimals.org/guilds/718880218684969028/draw"
-        width="49%"
+        width="500"
         height="300"
         alt="gitanimals"
       />
     </a>
-</div>
+
